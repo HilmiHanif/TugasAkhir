@@ -1,0 +1,227 @@
+[
+  {
+    "name":"KFC",
+    "address":"Jl. Pandanaran Semarang No.78",
+    "delivery_charge": 1,
+    "image":"https://upload.wikimedia.org/wikipedia/id/thumb/b/bf/KFC_logo.svg/1200px-KFC_logo.svg.png",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Fish Fillet",
+        "price": 3.15,
+        "url": "https://files.kfcku.com/uploads/media/dummy/food/thumbnail/kfc-web_fishfilletc_t.png"
+      },
+      {
+        "name": "Krispy Burger",
+        "price": 2.7,
+        "url": "https://files.kfcku.com/uploads/media/food-menu/praktis/thumbnail/kfc-web_zuper-krunch_t_2.png"
+      },
+      {
+        "name": "BBQ Bento",
+        "price": 3.35,
+        "url": "https://files.kfcku.com/uploads/media/food-menu/praktis/thumbnail/kfc-web_barbequebento_t.png"
+      },
+      {
+        "name": "Twisty",
+        "price": 2.55,
+        "url": "https://files.kfcku.com/uploads/media/food-menu/praktis/thumbnail/kfc-web_twisty_t_1.png"
+      },
+      {
+        "name": "Wingers",
+        "price": 1.5,
+        "url": "https://files.kfcku.com/uploads/media/dummy/food/thumbnail/kfc-web_wingers_t.png"
+      },
+      {
+        "name": "Super Breakfast",
+        "price": 3.5,
+        "url": "https://files.kfcku.com/uploads/media/dummy/food/thumbnail/kfc-web_super-breakfast_t.png"
+      },
+      {
+        "name": "Ovaltine",
+        "price": 1.8,
+        "url": "https://files.kfcku.com/uploads/media/dummy/food/thumbnail/kfc-web_super-breakfast_t.png"
+      },
+      {
+        "name": "Mocha Float",
+        "price": 1,
+        "url": "https://files.kfcku.com/uploads/media/food-menu/drinks/thumbnail/kfc-web_mochafloat_t.png"
+      },
+      {
+        "name": "Sprite ",
+        "price": 1,
+        "url": "https://files.kfcku.com/uploads/media/food-menu/drinks/thumbnail/kfc-web_sprite_t.png"
+      },
+      {
+        "name": "Fanta",
+        "price": 1,
+        "url": "https://files.kfcku.com/uploads/media/food-menu/drinks/thumbnail/kfc-web_fanta_t.png"
+      }
+    ]
+  },
+  {
+    "name":"Domino's Pizza",
+    "address":"Jl.Majapahit Semarang No",
+    "delivery_charge": 1,
+    "image":"https://media-cdn.tripadvisor.com/media/photo-s/09/5c/5c/74/domino-s-pizza-plumstead.jpg",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 1:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Chicken Delight",
+        "price": 2.7,
+        "url": "https://dom-repo-olo-prod.oss-ap-southeast-5.aliyuncs.com/catalog/product/cache/2/small_image/187x/9df78eab33525d08d6e5fb8d27136e95/c/h/chicken-delight-550x550px.png"
+      },
+      {
+        "name": "Double Beef Burger",
+        "price": 4.3,
+        "url": "https://dom-repo-olo-prod.oss-ap-southeast-5.aliyuncs.com/catalog/product/cache/2/small_image/187x/9df78eab33525d08d6e5fb8d27136e95/d/o/double-beef-burger-550x550px.png"
+      },
+      {
+        "name": "Beef Pepperoni feast",
+        "price": 3.4,
+        "url": "https://dom-repo-olo-prod.oss-ap-southeast-5.aliyuncs.com/catalog/product/cache/2/small_image/187x/9df78eab33525d08d6e5fb8d27136e95/b/e/beef-pepperoni-feast-550x550px.png"
+      },
+      {
+        "name": "Tuna Delight",
+        "price": 4.5,
+        "url": "https://dom-repo-olo-prod.oss-ap-southeast-5.aliyuncs.com/catalog/product/cache/2/small_image/187x/9df78eab33525d08d6e5fb8d27136e95/t/h/thumbnail_super_soccer_cup_500x500px_01_1.png"
+      },
+      {
+        "name": "Meat & Meat",
+        "price": 2.8,
+        "url": "https://dom-repo-olo-prod.oss-ap-southeast-5.aliyuncs.com/catalog/product/cache/2/small_image/187x/9df78eab33525d08d6e5fb8d27136e95/m/e/meat-_-meat-550x550px.png"
+      },
+      {
+        "name": "Cheese Mania",
+        "price": 4.4,
+        "url": "https://dom-repo-olo-prod.oss-ap-southeast-5.aliyuncs.com/catalog/product/cache/2/small_image/187x/9df78eab33525d08d6e5fb8d27136e95/t/h/thumbnail_super_soccer_cup_500x500px_05.png"
+      },
+      {
+        "name": "Meatzza",
+        "price": 3,
+        "url": "https://dom-repo-olo-prod.oss-ap-southeast-5.aliyuncs.com/catalog/product/cache/2/small_image/187x/9df78eab33525d08d6e5fb8d27136e95/m/e/meatzza-550x550px.png"
+      },
+      {
+        "name": "Coca Cola",
+        "price": 1,
+        "url": "https://dom-repo-olo-prod.oss-ap-southeast-5.aliyuncs.com/catalog/product/cache/2/small_image/310x/9df78eab33525d08d6e5fb8d27136e95/c/o/cocacola-350ml-550x550px.png"
+      },
+      {
+        "name": "Fanta",
+        "price": 1,
+        "url": "https://dom-repo-olo-prod.oss-ap-southeast-5.aliyuncs.com/catalog/product/cache/2/small_image/310x/9df78eab33525d08d6e5fb8d27136e95/f/a/fanta-350ml-550x550px.png"
+      },
+      {
+        "name": "Frestea Jasmine",
+        "price": 1,
+        "url": "https://dom-repo-olo-prod.oss-ap-southeast-5.aliyuncs.com/catalog/product/cache/2/small_image/310x/9df78eab33525d08d6e5fb8d27136e95/f/r/frestea-jasmine-tea-550x550px_1.png"
+      },
+      {
+        "name": "Frestea Apple",
+        "price": 1,
+        "url": "https://dom-repo-olo-prod.oss-ap-southeast-5.aliyuncs.com/catalog/product/cache/2/small_image/310x/9df78eab33525d08d6e5fb8d27136e95/f/r/frestea-apple-550x550px_1.png"
+      }
+    ]
+  },
+  {
+    "name":"McDonald's",
+    "address":"Jl. Panandaran Semarang No.44",
+    "delivery_charge": 1,
+    "image":"https://www.mcdonalds.com/content/dam/usa/nfl/assets/nav/arches-logo_108x108.jpg",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Chocolate Shake",
+        "price": 2,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Strawberry Shake",
+        "price": 2,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Filet-O-Fish",
+        "price": 3.5,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
+      },
+      {
+        "name": "McNuggets",
+        "price": 2.5,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Combo Meal",
+        "price": 3,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Big-Mac-Extra-Value-Meals.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "McMuffin Meal",
+        "price": 3.8,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Egg-McMuffin-Extra-Value-Meals.jpg?$Product_Desktop$"
+      }
+    ]
+  },
+  {
+    "name":"Geprek Bensu",
+    "address":"Jl.Gajah Mada No.108",
+    "delivery_charge": 1,
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/LOGO_GEPREK_BENSU.png/2048px-LOGO_GEPREK_BENSU.png",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Geprek Original",
+        "price": 2,
+        "url": "https://www.geprekbensuindonesia.com/wp-content/uploads/2020/02/PGB.png"
+      },
+      {
+        "name": "Geprek Sambal Matah",
+        "price": 2.6,
+        "url": "https://www.geprekbensuindonesia.com/wp-content/uploads/2020/02/PGB-SAMBAL-MATAH.png"
+      },
+      {
+        "name": "Geprek Bensu Sambal Embe",
+        "price": 2.7,
+        "url": "https://www.geprekbensuindonesia.com/wp-content/uploads/2020/09/NASI-EMBE.png"
+      },
+      {
+        "name": "Geprek Bensu Leleh",
+        "price": 3.5,
+        "url": "https://www.geprekbensuindonesia.com/wp-content/uploads/2020/09/NASI-EMBE.png"
+      }
+    ]
+  }
+]
